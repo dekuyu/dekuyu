@@ -34,10 +34,7 @@
 
 <p>&emsp;&emsp;hello! This is dekuyu。</p>
 
-</td></tr>
 
-
-<tr><td>
 
 ### 📊 WakaTime
 
